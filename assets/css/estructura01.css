@@ -12,7 +12,7 @@
   grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: 5px;
   grid-row-gap: 18px;
-  border: 1px solid #000;
+  border: 3px solid #A6A6A6;
 }
 .row:before, .row:after{
   content: " ";
